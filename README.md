@@ -62,6 +62,11 @@ Furmark Stabiliate GPU - https://geeks3d.com/furmark/
 Blender benchmark - https://opendata.blender.org/
 3D Mark - https://store.steampowered.com/app/223850/3DMark/
 
+Sistemul este stabil daca are o temperatura ok si nu intampina crash-uri, bug-uri, freeze-uri timp de minim 30 min.
+
+Daca totul este in regula dar vreti sa fie mai silentios PC-ul, Mergeti in bios H/W Monitor si schimbati preset-ul la ventilatoare
+(Silent, Standard, Performance,Full Speed)
+
 **Software Monitorizare si OC PC**
 
 CPU-Z - https://www.cpuid.com/softwares/cpu-z.html
@@ -86,7 +91,7 @@ Goodbye winrar.
 
 Si aici mai am alte recomandari foarte bune de programe inlocuitoare: VLC pentru video player,
 Standard Notes pentru notite,Lightshot pentru screenshot, Davinci Resolve Cel mai bun editor video
-gratuit, pe bune. 
+gratuit, pe bune.
 
 
 
